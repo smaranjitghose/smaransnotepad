@@ -1,16 +1,17 @@
 # Smaran's Notepy 📝
+![version badge](https://img.shields.io/badge/vesion.-0.0.1-green)
 
-Who doesn't the remember the legend of ```notepad```! Before there was VSCODE,Sublime,Atom or PyCharm, ```notepad``` was your defacto text editor
+Who doesn't the remember the legend👑 of ```notepad```! Before there was VSCODE,Sublime,Atom or PyCharm, ```notepad``` was your defacto text editor⚡
 
 ![legend](https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif)
 
-From those shoping lists,saving your to-do's,your besties numbers,hitlists to actual code, it did it all
+From those shoping lists,saving your to-do's,your besties numbers,hitlists to actual code, it did it all for you.
 
 But with the advent of IDE's and pluggins, it succumbed to the blows of unimpressive innovation and boring UI
 
 ![die](https://media.giphy.com/media/y1ewxG8aFWk0M/giphy.gif)
 
-Here, Python🐍 gives you a spell to respawn it once more!
+Here, Python🐍 gives you a spell to respawn it one more time!
  
 ## Usage: 
 
@@ -35,7 +36,7 @@ Here, Python🐍 gives you a spell to respawn it once more!
 
 ## An overview:
 
-![snapshot](https://github.com/smaranjitghose/smaransnotepy/blob/master/assets/snapshot_1.png)
+![snapshot](https://github.com/smaranjitghose/smaransnotepad/blob/master/assets/snapshot_1.png)
 
 # Futher upcoming work: 🏗
 
